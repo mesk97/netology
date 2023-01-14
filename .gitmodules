@@ -1,0 +1,3 @@
+[submodule "scripts/snet-homeworks"]
+	path = scripts/snet-homeworks
+	url = git@github.com:netology-code/snet-homeworks.git
