@@ -1,0 +1,100 @@
+2022-12-29 15:12:15.086 +0000 UTC,kw9hn1cy8t8d7c1sbwu5zfdyar,sa,system,sa,hxbsdr6foidq5gy4e4bie5sbca,,sa joined the channel.,system_join_channel
+2022-12-29 14:17:02.517 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdhtoenxf4netnwzf6x69dg9tco5a,,"I've already asked to update firewall rules after re-deploy the stand. and this task has been resolved
+2022-12-29 14:13:29.034 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhrpb1ipzg9bgndnag1wcms4etmo,,"```
+2022-12-29 14:09:37.357 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhz4iimku6kbgw98tjpbpxh7bqjy,,"Probably ran out of storage space.
+2022-12-29 14:08:34.86 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdhfabnsk8xqpg85ybke1hjg9y1iw,," could you please take a look one more time
+2022-12-29 14:05:10.17 +0000 UTC,trsg8n41rtgui8ts5eddzidhfotqenxqyimb88me9cprc3dbgrnh,,oh ok thanks! and thanks for the ploop refs!! :-) what caused the problem in the first place? what should i do next time it happens?,message
+2022-12-29 14:04:08.137 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhhxmf7s541bypfn15t3t6n6bxce,,"I restarted the accountsrv container (within/on the company-15681-company-vm host) and it is no longer in suspended state.
+- https://companysupport.force.com/s/article/000017152
+2022-12-29 13:51:32.099 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdhsnhjmm13wird38o8nhempscnho,, could you point out please what step it could be?,message
+2022-12-29 13:47:32.524 +0000 UTC,9h1ecompanyder3rc9rahsmk4ofd7xhbn1ot6pynin6ukqd4mssid796w,,"it means
+2022-12-29 13:46:30.694 +0000 UTC,trsg8n41rtgui8ts5eddzidhfo3a1bptzeojf6ukj93t63mmk1fa,,company-15681-company-vm?,message
+2022-12-29 13:46:21.778 +0000 UTC,trsg8n41rtgui8ts5eddzidhforsrmtedfgt8pxkk4hdp9ocqp4a,,I love the term ploop - think I'll try to use that multiple times today ;-) didn't understand - which machine should I try to restart?,message
+2022-12-29 13:13:03.35 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhtnfr534wk7yndyw9neh9bpqzte,,"```
+2022-12-29 12:51:05.246 +0000 UTC,9h1ecompanyder3rc9rahsmk4ofd7xhymf1eh8ckpgjxenz5j59p8rjkw,,"in this case the lic is active
+2022-12-29 12:36:33.177 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhzqi9oktyspgo9f543enwojmi6e,,"> suspended
+2022-12-29 12:04:01.845 +0000 UTC,9h1ecompanyder3rc9rahsmk4ofd7xhifym45bggtfgixs7n49egp6gne,,"If you look into fw logs you can see the follwoing:
+2022-12-29 10:06:25.818 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdhkcmdirk5kpf4z8ornmtpxip8aa,,"Could someone help with certificate problem? Or guide how to solve it
+2022-12-29 09:27:22.884 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxoatbhsrjwrt8bijxhuxtu85gr9e,,pls delete previous installation and start one more time ,message
+2022-12-29 09:18:47.574 +0000 UTC,trsg8n41rtgui8ts5eddzidhfoxn9rpebfhig83xoyr7ah88kskr,,my stand https://company-company-15681.do.company.fun/ suddenly started getting an error. persisted. I tried restarting my main server company-15681-company-vm on ovirt and now I'm getting a 502. help pls,message
+2022-12-29 08:59:14.407 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhghnjq9thjtryzedxnx5j561zew,,"Without additional info there isn't much I can say.
+2022-12-29 08:54:33.531 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdh84bfxtppz3nsjpewa5kofwc88y,,", maybe you have a suggestion how to fix it?",message
+2022-12-29 08:54:02.358 +0000 UTC,9h1ecompanyder3rc9rahsmk4ofd7xh,sergey.rylkov,system,serg,ukjsmjkxx7nifrwjip5ptyficr,,"serg updated the channel header from: **Hero:  ** (company: ) | [How to deploy](https://company.company.com/display/company/Deploy+company%2C+companyrid%2C+VZ+stand+in+oVirt) | [k8s components](https://company.company.com/pages/viewpage.action?pageId=121446555) | [Troubleshoot](https://company.company.com/display/company/Deploy+troubleshoot) | [oVirt quota management](https://company.company.com/display/company/oVirt+quota+management) | Please check pins, scroll up, and use search - there are answers to be found! to: **Hero:  ** (company: ) | [How to deploy](https://company.company.com/display/company/Deploy+company%2C+companyrid%2C+VZ+stand+in+oVirt) | [k8s components](https://company.company.com/pages/viewpage.action?pageId=121446555) | [Troubleshoot](https://company.company.com/display/company/Deploy+troubleshoot) | [oVirt quota management](https://company.company.com/display/company/oVirt+quota+management) | Please check pins, scroll up, and use search - there are answers to be found!",system_header_change
+2022-12-29 07:27:24.78 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuh3at7rmsco7f47jfsa5th4a1p3e,,https://company.company.work/display/company/Deploy+troubleshoot#Deploytroubleshoot-OperationFailed.CannoteditVirtualDisk.Quotahasinsufficientstorageresources,message
+2022-12-29 07:26:28.906 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhoexuwfyh3jbmfdjibwe575xaqa,,"```
+2022-12-29 07:25:45.876 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3hb6bixsiqufyzjdfxofxbdefuze,,https://company.company.corp.company.com/view/oVirt/job/one_click_companyrid/16052/,message
+2022-12-29 07:25:32.73 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3hgcmencik97gofrzcfiita3exke,,09:22:49   [WARN] catched exception: hudson.AbortException: script returned exit code 2 ,message
+2022-12-29 07:25:30.943 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3hsn1kiz3qa7fdpnafmh41cfoynw,,failed,message
+2022-12-29 07:17:14.356 +0000 UTC,e9rknbapci8fi8fhi6eh9gkcrwteozxddq4pffdmhiha3ywuxrhr,,"Deploy stand ended with an error 04:21:11   [ERROR] job for deploy-vcd-ms playbook-msp.yml FAILED
+2022-12-29 06:57:40.396 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3hiwtd4t5d87g7ubn985jzyq56zy,,"ok, thanks",message
+2022-12-29 06:56:25.141 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhotam6na79fbhfyrc67kfg3u4ir,,"> same result
+2022-12-29 06:50:10.307 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3hgczemw6ybtgh3pncfybmqmtf6c,,https://company.company.corp.company.com/view/oVirt/job/one_click_companyrid/16050/,message
+2022-12-29 06:49:59.062 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3h3d9f3pygepnh9pgmj1d7ztcsew,,08:46:28   [WARN] catched exception: hudson.AbortException: Job one_click_company https://company.company.corp.company.com/job/one_click_company/31690/console failed ,message
+2022-12-29 06:49:57.053 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3hpiyq47k7fiyhipzhmkpq56zk5c,,"fixed, same result",message
+2022-12-29 06:29:48.561 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhzo9i6j3zg7yjmpsw1r5y3g9o4r,,"If you intended to update a single component on a previously deployed stand, there are [other jobs](https://company.company.work/display/company/Deploy+company%2C+companyrid%2C+VZ+stand+in+oVirt#Deploycompany,companyrid,VZstandinoVirt-Updatesinglecomponent) for the task.
+2022-12-29 06:28:44.16 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhdibrsrpwm7rg8e5horwnd31b7h,,"Hello.
+2022-12-29 06:25:48.985 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3hp8o1ybo7mjb1jrodrfqt7eptda,,https://company.company.corp.company.com/view/oVirt/job/one_click_companyrid/16045/,message
+2022-12-29 06:25:36.582 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3hg6t1r9o1ujbixxfjqqd18aumkc,,"01:37:37   [WARN] catched exception: hudson.AbortException: deploy failed 
+2022-12-29 06:25:24.608 +0000 UTC,eti7cxxjij8u3yqcc957q9xf3h9545nq6ycpde58cpmarmwuoamo,,"Hi, can you take a look?",message
+2022-12-29 06:20:18.075 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhpoxk8jqrsj85fmtom71ikaiswa,,"> s3_public_endpoint: https://s3-aci-aaqa-ext.do.company.fun
+2022-12-28 21:13:02.702 +0000 UTC,mmd511iat7f9mmpy6upmwprhjrw5gye6ictbnqtgwik4izpjc5de,,after adding this I see errors with playbook-company-minimal.yml - https://company.company.corp.company.com/job/multijob_msp-scm_deploy/83627/console,message
+2022-12-28 17:29:57.379 +0000 UTC,onhuimwbgpyzdym575b87w6iuoex89cew8g3dkxg3ertc1tdmuyh,,"You can try adding to extra_vars:
+2022-12-28 17:27:07.967 +0000 UTC,mmd511iat7f9mmpy6upmwprhjrttpioq81cjfjtndy6cq8za1fjc,,"please, ping me when it's resolved, it's blocking my testing",message
+2022-12-28 17:01:01.415 +0000 UTC,z6zp8x8ypfye7n9dfzzuu4recanor7is4qibn83qnai6w5dpbugr,,looks like it is working again now,message
+2022-12-28 16:47:41.137 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxo46o7ny5x3pndzkzrjur7ueex7c,,"Ok, I will fix it today later ",message
+2022-12-28 16:15:43.83 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdh48m7w8a7njdqxfiesrowiu8kjo,,"Hi
+Wednesday 28 December 2022  15:36:54 +0000 (0:00:00.733)       0:00:40.014 **** 
+2022-12-28 15:56:31.02 +0000 UTC,4o19zq3f6tnb9ggzki6h4eojuhm6ghoktww7ndzjqbgj9epfozae,,Paging  ,message
+2022-12-28 15:46:05.61 +0000 UTC,z6zp8x8ypfye7n9dfzzuu4recaine917n3m3g4mdbj7oh6r9ttxy,,"Hello, I am getting 503 errors from https://us-kibana.company.com:
+2022-12-28 15:28:31.101 +0000 UTC,mmd511iat7f9mmpy6upmwprhjrggkxtny8s7rhmqwzgiud7qc4ec,,I need master,message
+2022-12-28 15:26:18.33 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxogb8uua3psiff7xua8pasmb1g9w,,can you use 23.01 release for now? Or you need master ?,message
+2022-12-28 15:26:04.934 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxoik51o1p8h78p7e7e8wrzruqwpw,,it's due to unmerged PR https://git.company.com/projects/ABC/repos/msp-scm/pull-requests/38044/diff#builds/master/workflow.yml ,message
+2022-12-28 15:10:10.308 +0000 UTC,mmd511iat7f9mmpy6upmwprhjrr7sn94frmi8wzqzdjmjof3txgo,, I'm trying to deploy with HLS https://company.company.corp.company.com/job/multijob_msp-scm_deploy/83589/parameters/ but receive this error ,message
+2022-12-28 13:47:07.281 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxogety1en31br18pfayaxsznzesr,,"I suggest to start using HIGH_LEVEL_SERVICES, because when you provide strict list of K8S_COMPONENTS, you cannot be sure that this list is actual.
+2022-12-28 13:11:50.496 +0000 UTC,mmd511iat7f9mmpy6upmwprhjrsbt8x8woo7nnpd9dwpcrspzocc,,if you log in as root/root you see errors,message
+2022-12-28 13:06:18.226 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxo8tiygqdcompanybfizxrbiimsw5kmie,,"Hi! Please explain the problem in details
+2022-12-28 12:59:03.904 +0000 UTC,mmd511iat7f9mmpy6upmwprhjr9kw3tbf5ojb1imtjo9wnzrqyac,,"Hi! Could you please help me with deploy. I see the job run without errors - https://company.company.corp.company.com/job/multijob_msp-scm_deploy/83557/, but I can't get access to stand - 404 error is thrown for presentation service - https://company-dl-2301.do.company.fun/company/. Should I modify something in the parameters of deploy?",message
+2022-12-28 11:10:57.738 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxofcc3om53nbnxjce77sim41pthy,,is it possible to make changes in playbook backward compatible ? ,message
+2022-12-28 10:17:52.898 +0000 UTC,kzyzytxz5pnxiqwmgmtx8g1pcyk8p68cz5x3djdj1e8zapsopkpy,,"> can we run this playbook in next releases, not in past release ?
+2022-12-28 10:16:29.633 +0000 UTC,kzyzytxz5pnxiqwmgmtx8g1pcy6qdre9g133nwcompanyd6sgk9ny4eqr,,"> why do we need it in this release?
+2022-12-28 10:15:03.751 +0000 UTC,kzyzytxz5pnxiqwmgmtx8g1pcy39meh33xppry9qkdewyhew4hfr,,"> in all other branches before 22.12 you need to explain the need of update of playbook in these branches - who will run it?
+2022-12-28 10:14:25.841 +0000 UTC,kzyzytxz5pnxiqwmgmtx8g1pcyyhmudb83ftd6bnnoz814tb4ata,,"> we have 22.12 branch which is currently rolling out on our production
+2022-12-28 08:11:19.169 +0000 UTC,9mq5pemia3rnfmszqnk74ipddetyxug55d5in89gi6tdmxao7w8w,,">  can we run this playbook in next releases, not in past release
+2022-12-28 08:09:43.119 +0000 UTC,9mq5pemia3rnfmszqnk74ipddeo34teytrwprzxkmb813jsn8foc,,"> why do we need it in this release
+2022-12-28 08:09:28.746 +0000 UTC,9mq5pemia3rnfmszqnk74ipdde6e4zjds613fkxjombrw3ohgyda,,"> who will run it
+2022-12-28 08:09:08.808 +0000 UTC,9mq5pemia3rnfmszqnk74ipddeqnwahmsfnjd5dk1jse8gy3youa,,"The possible error case I can think of is
+2022-12-28 08:08:01.76 +0000 UTC,9mq5pemia3rnfmszqnk74ipddeznmuo38bebbtzmwe5k9ix9nksr,,"In my opinion, the playbook is run when we deploy a stand/dc with the particular release. If we dont make the changes, the deployment may failed. Because it is not compatible.
+2022-12-28 08:02:19.328 +0000 UTC,9mq5pemia3rnfmszqnk74ipddeh6tpwsnm4bb9pjzwsisesfmfye,,Hi  could you help with the question from Devops,message
+2022-12-28 08:00:04.384 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxo3fkwa5ruhpb38jk3pxn8xgng7h,,"Hi! we have 22.12 branch which is currently rolling out on our production, you can see schedule of updates in Panopticum
+2022-12-28 07:44:09.919 +0000 UTC,9mq5pemia3rnfmszqnk74ipddepak451sgoi8f7rsdj55tumtsfh,,"Hi, may I know what are the active releases currently we have? For example, Strato is on C22.10 and will be updated to C22.11 in 9th Jan 2023. So C22.11 will be an active release)
+2022-12-27 15:17:45.677 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxoe5xyq3indpdi3fe4i4fz45fg3c,,"you can use drop_msp_stand job - it will remove ALL vms except VZ
+2022-12-27 15:11:58.688 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdhu3gzcrywotn57q3ppjm57t734e,,", I think we can remove old installations.
+2022-12-27 14:35:36.264 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxoeu3cgsi15pfyxgeogp7pzkhf1e,,"finally I think I found root cause of the problem...  the pipeline is trying to deploy one more time the same VMs which already exist on another storage (06). But your quota is linked to storage with suffix 10. So need to decide: if we can just remove old installation, then it should solve the problem :)  or I can try to migrate disks of these VMs to your storage (10)",message
+2022-12-27 13:32:18.118 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdh13695f39tine8n9ncuj9qpi5bh,,"https://company.company.corp.company.com/job/multijob_msp-scm_deploy/83466/consoleFull
+2022-12-27 12:25:52.815 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxo7xh8fan6kjbtzy5a3nwey3zcya,,"yes, that's a good idea. Please ask",message
+2022-12-27 11:14:40.856 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdh3d8so6bkp3dd98e3a4gwsx5tbo,,could it help if I ask someone else with advanced_automation quota only to run the job ?,message
+2022-12-27 11:10:40.832 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxom837nfgjx7yp3dnhuf9dtu7fpy,, fixed: https://git.company.com/projects/ABC/repos/msp-scm/pull-requests/38159/diff#builds/23.01/workflow.yml,message
+2022-12-27 11:10:06.873 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxosbdgohmaifde9p5zrnt38rdz6r,,"I think no, it will not help, because the quota and storage detected correctly",message
+2022-12-27 11:02:02.223 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdh99e9ukqsupympxr3ri47w9pk5a,,could it help if I explicitly specify advanced_automation quota in extra vars?,message
+2022-12-27 10:56:04.501 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxo9zpx9zjdwt8mbf9ub51149mpia,," I tried to discuss it today with maintainers, let me try to get any info from them one more time. I will return here a bit later",message
+2022-12-27 10:54:24.879 +0000 UTC,c41qsa5tmfyqt8ihfhrayxkndo8ts47hqc7igwdjsf8hyjhjy8nc,," hello, i've had a failed 23.01 deploy because of true availability service: https://company.company.corp.company.com/job/multijob_msp-scm_deploy/83382/console and it looks like all of its maintainers are on holidays in BG. Is there any way I can exclude it from deployment?",message
+2022-12-27 10:49:43.719 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxocoaeou7hxjr3dmx5xjyfpuubby,,"I can't sorry. This can be done only by group's manager: 
+2022-12-27 10:48:05.933 +0000 UTC,ms1zc47u8ifs7jiw5hdn4g5kdhuyrntffi63f57yde4a4nof3g7y,,"ok, you can remove me from ci",message
+2022-12-27 10:44:21.744 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxo4nrtib1q53fndgd5i9icug441r,,"this may happen because you are currently in two quota-groups : ci and advanced-automation. Do you need to be in both groups? If not, then I consider removing you domain-account from acl_bro_ci AD-group and re-try deploy 1h after that (because sync process takes some time) ",message
+2022-12-27 10:43:02.034 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxod3pck18gqtytfjumu3kpwzqysc,,https://mm.company.com/company/pl/sfrdfytr9p81jro6esfmijqpbo,message
+2022-12-27 10:42:46.172 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxop4ykiq5d6tde5e1rogb451xmda,, pls take a look https://mm.company.com/company/pl/hagxmeweb3rc8n9d6e614q588y,message
+2022-12-27 10:25:13.512 +0000 UTC,kne5h7o853fz58c74tsfx31xhazmoz87rwfiy8ff1f5864qoh8ea,,"Hi, guys.
+2022-12-27 10:20:07.819 +0000 UTC,bmf6rbukupdkx8difzpmipo3qosfrdfytr9p81jro6esfmijqpbo,,You could delete database website_company_manager and try to deploy again,message
+2022-12-27 10:20:03.448 +0000 UTC,5it18ciqhidodjeztychci1gywffiibg614i87zx5cm6ftz9yh4h,,Thank you very much  i will give it a look when free,message
+2022-12-27 10:19:20.528 +0000 UTC,bmf6rbukupdkx8difzpmipo3qohagxmeweb3rc8n9d6e614q588y,,Looks like first deploy was interrupted,message
+2022-12-27 10:00:18.966 +0000 UTC,o3s697txifrd7fdtknw66payecp4gkmuhia3dquna45exft4q3yw,,", , hi, can you please help deploy Website Backup Manager to my stand? Error details are in thread above",message
+2022-12-27 09:30:48.763 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxoupwqchuoijbk9qjeeasd1a865r,,pls contact component owner ,message
+2022-12-27 09:27:59.334 +0000 UTC,o3s697txifrd7fdtknw66payec8atdos8c47yp5qp44kajs916tw,,Or what can I do different?,message
+2022-12-27 09:27:44.913 +0000 UTC,o3s697txifrd7fdtknw66payecghaamyfcppdouj54mjo4fj9hmw,,Do I need to change build parameters?,message
+2022-12-27 09:27:34.076 +0000 UTC,o3s697txifrd7fdtknw66payecryoh1nxi3jfqfq9aw1abqur9cc,,"Ok, but how do I get it to deploy?",message
+2022-12-27 09:26:58.706 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxo8afmu8a9afneipno87ari5ensh,,,message
+2022-12-27 09:26:45.876 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxote48n4onoirp5kooqiu41j39jy,,"there are a lot of files inside. Most frequently used: acc_logs.txt and kube_describe_all.txt
+2022-12-27 09:25:03.37 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxoofzjp9r4w78bmr5pf8qk9543sy,,then open folder k8s_logs and download attached tar.gz archive,message
+2022-12-27 09:24:35.969 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxohf9kek9hqjfemj8ndogtjm4uua,,https://company.company.corp.company.com/job/multijob_msp-scm_deploy/83430/,message
+2022-12-27 09:24:28.218 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxoekbphriy97gjxk1rqpdn499ppc,,to investigate the issue please open BUILD ARTIFACTS ,message
+2022-12-27 09:12:24.789 +0000 UTC,8qetnfnzxjrdp8xfmbhf6kobxotsjrbqhz9fb5fj9fimqcegxr4o,,"Hi! 
