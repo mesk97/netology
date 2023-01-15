@@ -8,7 +8,11 @@ trap 'echo "Ping exit (Ctrl-C)"; exit 1' 2
 #do
 for HOST in {1..255}
 do
-	echo "[*] IP : $PREFIX.$HOST"
-	arping -c 1 -w 1 -I $INTERFACE "$PREFIX.$HOST" 2> /dev/null
+	echo -ne "[*] check IP: $PREFIX.$HOST: "
+	if arping -c 1 -w 1 -I $INTERFACE "$PREFIX.$HOST" 2> /dev/null 1>/dev/null ; then
+		echo "YES"
+	else
+		echo "-"
+	fi
 done
 #done
