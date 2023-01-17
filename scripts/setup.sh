@@ -7,6 +7,7 @@ sudo rm -rf snet-homeworks
 
 sudo apt install lynx
 sudo apt install iputils-arping
+sudo apt install shellcheck
 chmod +x scripts/*.sh
 
 cd scripts \
