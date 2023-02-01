@@ -1,0 +1,32 @@
+--- /etc/default/grub	2023-02-01 15:15:56.905119146 +0300
++++ original_grub	2023-02-01 17:05:18.064245822 +0300
+@@ -1,12 +1,19 @@
+-# If you change this file, run 'update-grub' afterwards to update
++# 4. !!! If you change this file, run 'update-grub' afterwards to update
+ # /boot/grub/grub.cfg.
+ # For full documentation of the options in this file, see:
+ #   info -f grub -n 'Simple configuration'
+ 
+ GRUB_DEFAULT=0
+ #GRUB_TIMEOUT_STYLE=hidden
++
++# 1. timeout of waiting choose of grub option, set to 10
+ GRUB_TIMEOUT=0
+ GRUB_DISTRIBUTOR=`lsb_release -i -s 2> /dev/null || echo Debian`
++
++# 2. kernel parameters
++#    quite - avoid reporting of kernel + systemd logs
++#    splash - allow to report grafical screen during kernel loading 
++# comment it 
+ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
+ GRUB_CMDLINE_LINUX=""
+ 
+@@ -15,7 +22,7 @@
+ # the memory map information from GRUB (GNU Mach, kernel of FreeBSD ...)
+ #GRUB_BADRAM="0x01234567,0xfefefefe,0x89abcdef,0xefefefef"
+ 
+-# Uncomment to disable graphical terminal (grub-pc only)
++# 3. Uncomment to disable graphical terminal (grub-pc only)
+ #GRUB_TERMINAL=console
+ 
+ # The resolution used on graphical terminal
