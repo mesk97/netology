@@ -14,5 +14,5 @@ patch -N -p0 /etc/default/grub patch_grub
 efibootmgr
 efibootmgr -t 0
 efibootmgr --delete-bootnum -b 0003
-
+sudo efibootmgr -o 0005,0004,0001,0002
 
