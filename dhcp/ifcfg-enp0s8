@@ -1,0 +1,12 @@
+# copy to /etc/sysconfig/network-scripts/ifcfg-enp0s8 on centos
+# reboot
+
+TYPE=Ethernet
+NAME=enp0s8
+DEVICE=enp0s8
+ONBOOT=yes
+
+BOOTPROTO=none
+PREFIX=24
+IPADDR=192.168.2.3
+
